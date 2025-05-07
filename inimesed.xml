@@ -15,6 +15,15 @@
                 <sugu>Female</sugu>
             </inimene>
         </laps>
+        <laps>
+            <inimene>
+                <id>3</id>
+                <eesnimi>Delmore</eesnimi>
+                <perekonnanimi>Beadham</perekonnanimi>
+                <email>dbeadham2@umn.edu</email>
+                <sugu>Male</sugu>
+            </inimene>
+        </laps>
     </inimene>
     <inimene>
         <id>2</id>
